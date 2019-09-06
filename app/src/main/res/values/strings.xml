@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="move_activity">Pindah Activity</string>
+    <string name="move_with_data">Pindah Activity dengan Data</string>
+    <string name="dial_number">Dial Number</string>
+    <string name="data_recieved">Data</string>
+    <string name="this_is_moveactivity">Pindah Activity</string>
+    <string name="this_is_result">Result</string>
+    <string name="move_with_object">Pindah Dengan Object</string>
+
+</resources>
